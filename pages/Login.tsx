@@ -89,14 +89,14 @@ const Login: React.FC = () => {
             </button>
           </form>
 
-          {/* <div className="mt-8 pt-6 border-t border-slate-100 text-center text-xs text-slate-400">
+          <div className="mt-8 pt-6 border-t border-slate-100 text-center text-xs text-slate-400">
             <p className="font-semibold mb-2">Demo Credentials:</p>
             <div className="flex flex-col gap-1">
               <span><strong>Admin:</strong> admin / admin123 (All Access)</span>
               <span><strong>Owner:</strong> owner / owner123 (Dash, Props, Owners, Cities)</span>
               <span><strong>Tenant:</strong> tenant / tenant123 (Dash, Props, Tenants, Cities)</span>
             </div>
-          </div> */}
+          </div>
         </div>
       </div>
     </div>
